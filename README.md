@@ -48,5 +48,7 @@ display the change on permissions.
 ![3-change-directory-perm](https://github.com/laroper/linux-file-permissions/assets/165287449/dd294294-c2d2-40f4-8356-e31eada6654b)
 
 ### Summary
-This project was to show my ability to navigate the linux file system, to list directory files for subfolders and hidden files. It also show my ability to
-make changes to file permissions for directories, files and hidden files.
+> [!IMPORTANT]
+> This project was to show my ability to navigate the linux file system,
+> + to list directory files for subfolders and hidden files,
+> + make changes to file permissions for directories, files and hidden files.
